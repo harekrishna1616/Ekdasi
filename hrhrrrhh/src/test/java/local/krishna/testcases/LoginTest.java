@@ -16,7 +16,7 @@ public class LoginTest extends BaseClass{
 	@Test
 	public void mainTest() {
 		
-		//driver=BrowserFactory.launchBrowserAndStartWebApplication("chrome", "https://www.google.com", driver);
+		//driver=BrowserFanhuhuhuctory.launchBrowserAndStartWebApplication("chrome", "https://www.google.com", driver);
 		//System.out.println(driver.getTitle());
 		//driver.quit();
 		//logger=report.createTest("Login to CRM");
